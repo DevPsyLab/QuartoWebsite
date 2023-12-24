@@ -18,7 +18,6 @@ format:
     toc-title: Contents
     toc-location: right
     number-sections: true
-    link-external-icon: true
     link-external-newwindow: true
     include-in-header:
       - "includes/google_analytics.html"
