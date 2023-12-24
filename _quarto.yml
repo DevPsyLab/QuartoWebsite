@@ -18,6 +18,8 @@ format:
     toc-title: Contents
     toc-location: right
     number-sections: true
+    code-fold: true
+    df-print: paged
     link-external-newwindow: true
     include-in-header:
       - "includes/google_analytics.html"
