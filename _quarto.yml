@@ -8,6 +8,9 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+    right:
+    - text: "Lab Website"
+      href: https://developmental-psychopathology.lab.uiowa.edu
 
 format:
   html:
