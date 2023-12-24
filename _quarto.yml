@@ -14,3 +14,9 @@ format:
     theme: cosmo
     css: styles.css
     toc: true
+    toc-depth: 3
+    toc-title: Contents
+    toc-location: right
+    number-sections: true
+    link-external-icon: true
+    link-external-newwindow: true
