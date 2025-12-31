@@ -3,25 +3,25 @@ project:
 
 website:
   title: "Quarto Website"
-  #repo-url: https://github.com/DevPsyLab/DataAnalysis
+  repo-url: https://github.com/DevPsyLab/QuartoWebsite
   repo-actions: [edit, source, issue]
-  #google-analytics: G-INSERTCODEHERE
+  google-analytics: G-NLF0RWB1CE
   navbar:
-    #logo: images/logo.png
+    logo: images/labLogo.png
     search: true
-    #tools:
-    #  - icon: github
-    #    menu:
-    #      - text: "Source Code"
-    #        href: https://github.com/DevPsyLab/DataAnalysis
-    #      - text: "Report a Bug"
-    #        href: https://github.com/DevPsyLab/DataAnalysis/issues/new
-    #  - icon: twitter
-    #    href: https://twitter.com/devpsylab
-    #  - icon: facebook
-    #    href: https://www.facebook.com/DevPsyLab
-    #  - icon: instagram
-    #    href: https://www.instagram.com/dev_psy_lab
+    tools:
+      - icon: github
+        menu:
+          - text: "Source Code"
+            href: https://github.com/DevPsyLab/QuartoWebsite
+          - text: "Report a Bug"
+            href: https://github.com/DevPsyLab/QuartoWebsite/issues/new
+      - icon: twitter
+        href: https://twitter.com/devpsylab
+      - icon: facebook
+        href: https://www.facebook.com/DevPsyLab
+      - icon: instagram
+        href: https://www.instagram.com/dev_psy_lab
     left:
       - href: index.qmd
         text: Home
