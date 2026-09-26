@@ -3,6 +3,7 @@ project:
 
 website:
   title: "Quarto Website"
+  site-url: https://devpsylab.github.io/QuartoWebsite/
   repo-url: https://github.com/DevPsyLab/QuartoWebsite
   repo-actions: [edit, source, issue]
   google-analytics: G-NLF0RWB1CE
